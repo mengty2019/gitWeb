@@ -8,5 +8,6 @@ public class HelloWorld {
 		System.out.println("3");
 		System.out.println("b");
 		System.out.println("a");
+		System.out.println("c");
 	}
 }
